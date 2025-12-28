@@ -28,12 +28,12 @@
     gap: 50px;
 }
 
-.list li{
+.list li {
     cursor: pointer;
     transition: .3s;
 }
 
-.list li:hover{
+.list li:hover {
     color: #ce6c42;
     transform: scale(1.25);
     transition: .3s;
@@ -44,12 +44,12 @@
     gap: 50px;
 }
 
-.icon i{
+.icon i {
     cursor: pointer;
     transition: .3s;
 }
 
-.icon i:hover{
+.icon i:hover {
     transform: scale(1.25);
     transition: .3s;
 }
@@ -118,7 +118,7 @@
     transition: .5s;
 }
 
-.detail button:hover{
+.detail button:hover {
     background-color: #ce6c42;
     color: white;
     transition: .5s;
@@ -144,7 +144,6 @@
 
 .cardhead {
     font-size: 2.5rem;
-    /* font-family: 'Roboto Condensed', sans-serif; */
     font-family: 'Mooli', sans-serif;
     text-align: center;
     color: rgba(255, 255, 255, 0.5);
@@ -200,7 +199,7 @@
     transition: .5s;
 }
 
-.card1 button:hover{
+.card1 button:hover {
     background-color: rgba(0, 0, 0, 0.50);
     color: rgb(255, 255, 255);
     transition: .5s;
@@ -263,7 +262,7 @@
     transition: .3s;
 }
 
-.textbox button:hover{
+.textbox button:hover {
     color: white;
     background-color: transparent;
     border: 2px solid white;
