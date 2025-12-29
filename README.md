@@ -9,7 +9,7 @@ A modern, responsive landing page inspired by Pepsi's design aesthetic. Built wi
 - HTML5
 - CSS3
 - Responsive layout
-- Static assets in `Img/`
+- Static assets in `images/`
 
 ## Getting Started
 
@@ -27,16 +27,16 @@ No build tools or runtime required. Works in any modern browser.
 2. Open the project:
    - Double-click `index.html`, or
    - Serve locally (optional):
-     ```bash
-     python -m http.server 8000
-     # Visit http://localhost:8000
-     ```
+   ```bash
+   python -m http.server 8000
+   # Visit http://localhost:8000
+   ```
 
 ## Usage
 
 - Explore the hero and brand sections
 - Customize copy and styles in `index.html` and `style.css`
-- Replace assets under `Img/` with your own artwork
+- Replace assets under `images/` with your own artwork
 
 ## Features
 
